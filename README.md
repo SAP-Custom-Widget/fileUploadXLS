@@ -5,8 +5,6 @@
 ## SAC-P Custom Widget: fileUploadXLS
 A custom widget designed to work with Excel or XLS files, helping you retrieve file data in JSON, raw, and multiple other formats
 
-![preview](https://raw.githubusercontent.com/SAP-Custom-Widget/fileUploadXLS/main/screenshot.png)
-
 ## Installation
 To use this widget in your SAP application, follow these steps:
 
